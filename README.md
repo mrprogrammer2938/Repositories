@@ -1,7 +1,7 @@
 # [Mr.nope](https://github.com/mrprogrammer2938) Repositories
 
 <a href="https://github.com/mrprogrammer2938"  >
-  <img src="Mr-nope-wallpaper" >
+  <img src="Mr-nope-wallpaper.jpg" >
 </a>
 
 [Black-Tool](https://github.com/mrprogrammer2938)
